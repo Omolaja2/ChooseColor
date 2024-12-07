@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Color\bin\Debug\net8.0\Color.exe
+C:\Users\USER\Desktop\Color\bin\Debug\net8.0\Color.deps.json
+C:\Users\USER\Desktop\Color\bin\Debug\net8.0\Color.runtimeconfig.json
+C:\Users\USER\Desktop\Color\bin\Debug\net8.0\Color.dll
+C:\Users\USER\Desktop\Color\bin\Debug\net8.0\Color.pdb
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.AssemblyInfo.cs
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.dll
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\refint\Color.dll
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.pdb
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\Color.genruntimeconfig.cache
+C:\Users\USER\Desktop\Color\obj\Debug\net8.0\ref\Color.dll
